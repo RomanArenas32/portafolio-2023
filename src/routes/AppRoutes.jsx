@@ -1,9 +1,10 @@
-import { Header } from "../components"
+import { Header, Navegacion } from "../components"
 
 export const AppRoutes = () => {
   return (
     <div>
-        <Header/>
+      <Navegacion />
+      <Header />
     </div>
   )
 }

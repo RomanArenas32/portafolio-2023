@@ -9,15 +9,12 @@
     font-family: "Rubik Doodle Triangles";
 }
 
-button{
-    width: 100px;
-}
 .dark{
     background-color: rgb(18, 18, 19);
     color: white;
     transition-duration: 1000ms;
 }
-.ligth{
+.light{
     background-color: aliceblue;
     color: rgb(21, 21, 24);
     transition-duration: 1000ms;
